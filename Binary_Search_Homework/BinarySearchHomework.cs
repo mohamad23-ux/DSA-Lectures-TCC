@@ -15,6 +15,8 @@ namespace Binary_Search_Homework // don't edit this line!!!
         {
             //TODO: write code for the ternary search algorithm and return the index of the element
             return -1;
+
+
         }
 
         public static int BinarySearchForCalculatingRepeated
