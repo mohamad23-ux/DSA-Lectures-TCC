@@ -15,6 +15,7 @@ namespace Linked_List_Homework
                 move = move.Next;
             }
             Console.WriteLine();
+
         }
 
         // methods
